@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asim</h1>
 <h3 align="center">Web Artisan</h3>
+<img align="center" width="400" alt="profile-image" src="https://media0.giphy.com/media/zwDNti5vWFujS/giphy.gif"/>
 
 - 🌱 I’m currently learning **AWS**
 
