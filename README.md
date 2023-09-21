@@ -21,12 +21,17 @@ aske21@github:~$ cat about_me.txt
 Hello, I'm Asim Veledarevic, a Web Artisan with a passion
 for crafting beautiful web experiences.
 
-When I'm not coding, I enjoy a diverse range of interests and hobbies. Music is a big part of my life, and I have a deep appreciation for genres like rap, jazz, and blues. I also like to unwind with some light gaming from time to time. Learning new things is a constant passion of mine, and I'm always eager to explore and acquire new knowledge and skills. Reading is another favorite pastime, as I love immersing myself in books of various genres. Additionally, I'm a fan of anime and manga, always on the lookout for captivating stories and characters. 
+When I'm not coding, I enjoy a diverse range of interests and hobbies. Music is a big part of my life,
+and I have a deep appreciation for genres like rap, jazz, and blues.
+I also like to unwind with some light gaming from time to time.
+Learning new things is a constant passion of mine, and I'm always eager to explore and acquire new knowledge and skills.
+Reading is another favorite pastime, as I love immersing myself in books of various genres. Additionally,
+I'm a fan of anime and manga, always on the lookout for captivating stories and characters. 
 
 
 
-- Email: veledarevica@gmail.com
-- Linkedin -> https://www.linkedin.com/in/asim-veledarevic/)
+Email - veledarevica@gmail.com
+Linkedin - https://www.linkedin.com/in/asim-veledarevic/
 
 
 ```
