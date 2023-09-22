@@ -28,9 +28,6 @@ Learning new things is a constant passion of mine, and I'm always eager to explo
 Reading is another favorite pastime, as I love immersing myself in books of various genres. Additionally,
 I'm a fan of anime and manga, always on the lookout for captivating stories and characters. 
 
-
-
-Email - veledarevica@gmail.com
 Linkedin - https://www.linkedin.com/in/asim-veledarevic/
 
 
