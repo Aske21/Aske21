@@ -25,7 +25,9 @@ I get a kick out of crafting web experiences, and my heart belongs to the fine a
 When I'm not coding, I enjoy a diverse range of interests and hobbies. 
 Learning new things is a constant passion of mine, and I'm always eager to explore and acquire new knowledge and skills.
 
-So, if you're into turning visions into reality, exploring the artistry of frontend development, or just geeking out over React, you've found a kindred spirit. Let's get in touch ^^
+So, if you're into turning visions into reality, exploring the artistry of
+frontend development, or just geeking out over React, you've found a kindred spirit.
+Let's get in touch ^^
 
 Linkedin - https://www.linkedin.com/in/asim-veledarevic/
 
