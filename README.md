@@ -19,7 +19,7 @@ drwxr-xr-x 20 aske21 users 4096 Sep 21 11:55 tools.txt
 aske21@github:~$ cat about_me.txt
 
 Hello, I'm Asim Veledarevic, a Web Artisan with a passion
-for crafting beautiful web experiences with two years of experience.
+for crafting beautiful web experiences.
 I get a kick out of crafting web experiences, and my heart belongs to the fine art of React in the frontend world.
 
 When I'm not coding, I enjoy a diverse range of interests and hobbies. 
